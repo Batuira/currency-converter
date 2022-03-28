@@ -1,0 +1,95 @@
+body {
+  background-color: white;
+  font-family: "Roboto Mono", monospace;
+  min-height: 600px;
+  background-image: url("https://img.freepik.com/free-vector/money-transfer-global-currency-stock-exchange_115579-473.jpg?size=626&ext=jpg");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+.page-title {
+  font-size: 40px;
+  color: white;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #00ffff;
+}
+
+.moeda-exchange {
+  color: #ffe4c4;
+  font-size: 20px;
+}
+
+.page-subtitle-temp {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.logo-linkedin {
+  width: 75px;
+  position: absolute;
+  bottom: 0px;
+  left: 10px;
+}
+
+.logo-github {
+  fill: white;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  bottom: 0px;
+  left: 80px;
+}
+
+.programer {
+  color: whitesmoke;
+  position: absolute;
+  bottom: 60px;
+  left: 10px;
+  font-size: 15px;
+}
+
+.moeda {
+  font-size: 20px;
+  color: #000000;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: black;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #7fffd4;
+  font-size: 30px;
+}
